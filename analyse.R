@@ -1,6 +1,6 @@
 
 
-tracks = read.delim("lastfmplays.csv",encoding="UTF-8")
+tracks = read.delim("lastfmplayscomplete.csv",encoding="UTF-8")
 
 summary(tracks)
 
