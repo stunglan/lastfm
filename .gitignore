@@ -1,0 +1,19 @@
+
+getplays.py
+
+*.py~
+
+*.R~
+
+*.history
+
+.Rhistory
+
+.RData
+
+
+.ipynb_checkpoints/Get tracks from lastfm-checkpoint.ipynb
+
+.project
+
+.pydevproject

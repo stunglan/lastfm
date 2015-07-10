@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+	<tracks user="stunglan" page="1" perPage="3" totalPages="9214"
+		total="27641">
+		<track>
+
+			<name>Elden</name>
+
+			<duration>280000</duration>
+
+			<playcount>244</playcount>
+
+			<tagcount>0</tagcount>
+
+			<mbid>c9d55de0-0759-4246-b938-0c0f03723069</mbid>
+
+			<url>http://www.last.fm/music/Lars+Winnerb%C3%A4ck/_/Elden</url>
+
+			<streamable fulltrack="0">0</streamable><artist>
+				\n
+				<name>Lars Winnerb\xc3\xa4ck</name>
+				\n
+				<mbid>1723c867-d5c5-4a61-a40b-8c04fa7acf1b</mbid>
+				\n
+				<url>http://www.last.fm/music/Lars+Winnerb%C3%A4ck</url>
+				\n
+			</artist><album>
+				\n
+				<name>Over grensen - De beste 1996-2009</name>
+				\n
+				<position></position>
+				\n
+			</album><image size="small">http://userserve-ak.last.fm/serve/34s/22418479.jpg
+			</image><image size="medium">http://userserve-ak.last.fm/serve/64s/22418479.jpg
+			</image><image size="large">http://userserve-ak.last.fm/serve/126/22418479.jpg
+			</image>
+			\n
+			<image size="extralarge">http://userserve-ak.last.fm/serve/300x300/22418479.jpg
+			</image>
+			\n
+		</track>
+		<track>
+			\n
+			<name>\xc3\x85t samma h\xc3\xa5ll</name>
+			\n
+			<duration>281000</duration>
+			\n
+			<playcount>214</playcount>
+			\n
+			<tagcount>0</tagcount>
+			\n
+			<mbid>9f372d45-92d2-41ee-9345-c8929190690e</mbid>
+			\n
+			<url>http://www.last.fm/music/Lars+Winnerb%C3%A4ck/_/%C3%85t+samma+h%C3%A5ll
+			</url>
+			\n
+			<streamable fulltrack="0">0</streamable>
+			\n
+			<artist>
+				\n
+				<name>Lars Winnerb\xc3\xa4ck</name>
+				\n
+				<mbid>1723c867-d5c5-4a61-a40b-8c04fa7acf1b</mbid>
+				\n
+				<url>http://www.last.fm/music/Lars+Winnerb%C3%A4ck</url>
+				\n
+			</artist>
+			\n
+			<album>
+				\n
+				<name>Over grensen - De beste 1996-2009</name>
+				\n
+				<position></position>
+				\n
+			</album>
+			\n
+			<image size="small">http://userserve-ak.last.fm/serve/34s/22418479.jpg
+			</image>
+			\n
+			<image size="medium">http://userserve-ak.last.fm/serve/64s/22418479.jpg
+			</image>
+			\n
+			<image size="large">http://userserve-ak.last.fm/serve/126/22418479.jpg
+			</image>
+			\n
+			<image size="extralarge">http://userserve-ak.last.fm/serve/300x300/22418479.jpg
+			</image>
+			\n
+		</track>
+		<track>
+			\n
+			<name>Stockholms kyss</name>
+			\n
+			<duration>230000</duration>
+			\n
+			<playcount>156</playcount>
+			\n
+			<tagcount>0</tagcount>
+			\n
+			<mbid>6025ee4d-a3e1-4500-8624-42fab4479497</mbid>
+			\n
+			<url>http://www.last.fm/music/Lars+Winnerb%C3%A4ck/_/Stockholms+kyss
+			</url>
+			\n
+			<streamable fulltrack="0">0</streamable>
+			\n
+			<artist>
+				\n
+				<name>Lars Winnerb\xc3\xa4ck</name>
+				\n
+				<mbid>1723c867-d5c5-4a61-a40b-8c04fa7acf1b</mbid>
+				\n
+				<url>http://www.last.fm/music/Lars+Winnerb%C3%A4ck</url>
+				\n
+			</artist>
+			\n
+			<album>
+				\n
+				<name>Utanf\xc3\xb6r album 1</name>
+				\n
+				<position></position>
+				\n
+			</album>
+			\n
+			<image size="small">http://userserve-ak.last.fm/serve/34s/82096519.jpg
+			</image>
+			\n
+			<image size="medium">http://userserve-ak.last.fm/serve/64s/82096519.jpg
+			</image>
+			\n
+			<image size="large">http://userserve-ak.last.fm/serve/126/82096519.jpg
+			</image>
+			\n
+			<image size="extralarge">http://userserve-ak.last.fm/serve/300x300/82096519.jpg
+			</image>
+			\n
+		</track>
+	</tracks>
+</lfm>
